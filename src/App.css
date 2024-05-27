@@ -83,7 +83,7 @@ form {
 
   body {
     height: auto !important;
-    margin: 0 !important;
+    margin: auto !important;
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
