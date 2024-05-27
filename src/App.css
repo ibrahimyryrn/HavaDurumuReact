@@ -76,7 +76,7 @@ form {
   font-size: 20px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 414px) {
   .details div {
     width: 100%;
   }
@@ -92,6 +92,5 @@ form {
   html,
   body {
     overflow-y: auto !important;
-    overflow-x: auto !important;
   }
 }
